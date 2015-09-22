@@ -1,0 +1,1 @@
+crane 8 goose 18 pidgeon 49 eagle 1 turkey 88 buzzard 65 chickenhawk 5
